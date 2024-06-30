@@ -90,7 +90,5 @@ contract VotingSystem {
                 winningCandidateId = i;
             }
         }
-
-        // Here, you might emit an event with the winner's information (not shown)
     }
 }
